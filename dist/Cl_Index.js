@@ -1,5 +1,5 @@
 import Cl_controlador from "./Cl_controlador.js";
-import Cl_MClinica from "./Cl_MClinica.js";
+import Cl_MClinica from "./Cl_mClinica.js";
 import Cl_vClinica from "./Cl_vClinica.js";
 export default class Cl_Index {
     constructor() {

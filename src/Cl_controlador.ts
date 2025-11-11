@@ -1,4 +1,4 @@
-import Cl_MClinica from "./Cl_MClinica.js";
+import Cl_MClinica from "./Cl_mClinica.js";
 import Cl_vClinica from "./Cl_vClinica.js";
 import { iPaciente } from "./Cl_mPaciente.js";
 import { iCita } from "./Cl_mCita.js";
